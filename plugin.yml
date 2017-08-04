@@ -1,0 +1,7 @@
+name: TitleCollectionPlugin
+main: TitleCollectionPlugin
+version: 1.0
+commands:
+  tc:
+    description: TitleCollectionPlugin
+    usage: /tc [command] [pseudo/value] [value]
