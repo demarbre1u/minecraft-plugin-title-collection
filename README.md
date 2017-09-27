@@ -1,7 +1,3 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
 This repository contains a plugin for Minecraft. It allows players to earn and manage a collection of titles.
